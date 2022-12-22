@@ -22,3 +22,6 @@
 [submodule "Algorithms-Fundamentals-with-Java"]
 	path = Algorithms-Fundamentals-with-Java
 	url = https://github.com/chavdar12/Algorithms-Fundamentals-with-Java.git
+[submodule "MySQL"]
+	path = MySQL
+	url = https://github.com/chavdar12/MySQL.git
