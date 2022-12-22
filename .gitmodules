@@ -1,24 +1,24 @@
-[submodule "Programming-Basics-with-Java"]
+[submodule "Programming Basics with Java"]
 	path = Programming-Basics-with-Java
 	url = https://github.com/chavdar12/Programming-Basics-with-Java.git
 [submodule "Java-Advanced"]
 	path = Java-Advanced
 	url = https://github.com/chavdar12/Java-Advanced.git
-[submodule "Data-Structures-Fundamentals-with-Java"]
+[submodule "Data Structures Fundamentals with Java"]
 	path = Data-Structures-Fundamentals-with-Java
 	url = https://github.com/chavdar12/Data-Structures-Fundamentals-with-Java.git
-[submodule "Data-Structures-Advanced-with-Java"]
+[submodule "Data Structures Advanced with Java"]
 	path = Data-Structures-Advanced-with-Java
 	url = https://github.com/chavdar12/Data-Structures-Advanced-with-Java.git
-[submodule "Java-OOP"]
+[submodule "Java OOP"]
 	path = Java-OOP
 	url = https://github.com/chavdar12/Java-OOP.git
-[submodule "Programming-Fundamentals-with-Java"]
+[submodule "Programming Fundamentals with Java"]
 	path = Programming-Fundamentals-with-Java
 	url = https://github.com/chavdar12/Programming-Fundamentals-with-Java.git
-[submodule "Algorithms-Advanced-with-Java"]
+[submodule "Algorithms Advanced with Java"]
 	path = Algorithms-Advanced-with-Java
 	url = https://github.com/chavdar12/Algorithms-Advanced-with-Java.git
-[submodule "Algorithms-Fundamentals-with-Java"]
+[submodule "Algorithms Fundamentals with Java"]
 	path = Algorithms-Fundamentals-with-Java
 	url = https://github.com/chavdar12/Algorithms-Fundamentals-with-Java.git
